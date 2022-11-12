@@ -6,9 +6,7 @@ The basic controls are wasd for player movement. In the future you will be able 
 
 The goal of writing this software was to improve my understanding of working with objects and inheritance. I also thought that a fun way to learn more about it was to learn Unity something I have not previously used before. Making a game that I enjoy has made learning a better experience than it would have been otherwise and that is why I want to finish the game, this is only the intial part of my game software. For this intial base game or software I had to learn Unity and the Unity libraries for C# so I found a video demo I have been following that shows all the basics of Unity and C#. My goal is to learn as much as I can from the tutorial and step away from the tutorial to make the true survival game that I want to make, the tutorial is a starting point for my main game. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/sPSzv5H-9aU)
 
 # Development Environment
 
