@@ -1,4 +1,4 @@
-# Unity2D_DunegonGame
+# Unity2D_DungeonGame
 
 I started to write a game that is in Unity, where you are playing as someone stuck in a castle, the end goal of this game is to make it out of the castle alive or die trying. I want the game to be a survival game where it gets increasinly more difficult the longer the game goes on and the longer you are stuck in the castle. 
 
