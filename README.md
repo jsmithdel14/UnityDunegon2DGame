@@ -6,7 +6,7 @@ The basic controls are wasd for player movement. The user can use space to swing
 
 The goal of writing this software was to improve my understanding of working with objects and inheritance. I also thought that a fun way to learn more about it was to learn Unity something I have not previously used before. Making a game that I enjoy has made learning a better experience than it would have been otherwise and that is why I want to finish the game, this is only the intial part of my game software. For this software I had to learn Unity and the Unity libraries for C# so I found a video demo I have been following that shows all the basics of Unity and C#. My goal is to learn as much as I can from the tutorial and step away from the tutorial to make the true survival game that I want to make, the tutorial is a starting point for my main game. Since finishing the tutorial I have been creating a timer on my own using documentation and tweaking some things from the tutorial.
 
-[Software Demo Video](https://youtu.be/sPSzv5H-9aU)
+[Software Demo Video]([https://youtu.be/sPSzv5H-9aU](https://youtu.be/rrU2icKJJk4))
 
 # Development Environment
 
